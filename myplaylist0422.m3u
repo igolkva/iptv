@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:0,Krasnaja Linija
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:0,Rossija 24
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=K5YQWPtkCqQKwxUX72e09g&e=1649322180&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:0,RTR planeta
-https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8?md5=KEiQBV0WSbyEjtazYAONGw&e=1649331180&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:0,Moskva 24
-https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist_1.m3u8?md5=W0CDGqhBy-xv0f0qqlkNxg&e=1649318580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+RBC TV
+https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:0,Surgut Inform TV
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:0,Soloviev Live

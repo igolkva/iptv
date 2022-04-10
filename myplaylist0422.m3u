@@ -9,3 +9,5 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://a3569458342-s27836.cdn.ngenix.net/hls2/givc21/playlist_6.m3u8
 #EXTINF:0,Telekanal SPAS
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:0,RT NEWS
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b2478000.m3u8

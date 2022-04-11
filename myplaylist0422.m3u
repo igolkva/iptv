@@ -11,3 +11,7 @@ https://a3569458342-s27836.cdn.ngenix.net/hls2/givc21/playlist_6.m3u8
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:0,RT NEWS
 https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b2478000.m3u8
+#EXTINF:0,Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,TVCI
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc

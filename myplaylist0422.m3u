@@ -9,22 +9,14 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://a3569458342-s27836.cdn.ngenix.net/hls2/givc21/playlist_6.m3u8
 #EXTINF:0,Telekanal SPAS
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:0,RT NEWS
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b2478000.m3u8
 #EXTINF:0,Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0,Rossija1_+6_Chita
-https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
-#EXTINF:0,Rossija24_+6_Chita
-https://gtrkchita.ru:8081/hls/r24-chita_360p.m3u8
 #EXTINF:0,Bashkirija24
 https://s1.gtrkrb.ru/hls/b24-hls.m3u8
 #EXTINF:0,IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF:0,Rossija1_chuvash
-https://chgtrk.code-red.ru/hls/R1_720p/index.m3u8
 #EXTINF:0,ETV2
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0,ETV+

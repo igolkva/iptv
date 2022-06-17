@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Krasnaja Linija
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:0,RBC TV
 https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=i1rjdj
 #EXTINF:0,Surgut Inform TV
@@ -25,3 +25,9 @@ https://s1.gtrkrb.ru/hls/b24-hls.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:0,Rossija1_chuvash
 https://chgtrk.code-red.ru/hls/R1_720p/index.m3u8
+#EXTINF:0,ETV2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:0,ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0,ETV
+https://sb.err.ee/live/etv.m3u8

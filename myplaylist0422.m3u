@@ -5,8 +5,8 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=i1rjdj
 #EXTINF:0,Surgut Inform TV
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:0,Soloviev Live
-https://s20585.glaz.tv:8082/liveg/sollive.stream/chunks.m3u8?nimblesessionid=2020299892&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjIgMTE6NTc6NTcgQU0maGFzaF92YWx1ZT1PL2djMlMyOGVXcnlGN2JPWm9wbStnPT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0,Soloviev Live_GlaZ_TV
+https://s20585.glaz.tv:8082/liveg/sollive.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MTM6NDEgUE0maGFzaF92YWx1ZT1QSExmS29vcHJ6Y2ZQc2lZd2hMRHlRPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:0,Telekanal SPAS
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zvezda

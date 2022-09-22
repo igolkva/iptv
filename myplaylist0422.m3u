@@ -21,3 +21,5 @@ https://sb.err.ee/live/etv2.m3u8
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0,ETV
 https://sb.err.ee/live/etv.m3u8
+#EXTINF:0,Zapad 24_Kaliningrad
+https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8

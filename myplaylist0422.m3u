@@ -14,7 +14,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:0,Bashkirija24
 https://s1.gtrkrb.ru/hls/b24-hls.m3u8
 #EXTINF:0,IZ.RU HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
+#EXTINF:0,Krym24
+https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0,ETV2
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0,ETV+

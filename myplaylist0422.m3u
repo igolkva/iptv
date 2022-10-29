@@ -15,8 +15,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://s1.gtrkrb.ru/hls/b24-hls.m3u8
 #EXTINF:0,IZ.RU HD
 https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
-#EXTINF:0,Krym24
-https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0,ETV2
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0,ETV+
@@ -25,3 +23,11 @@ https://sb.err.ee/live/etvpluss.m3u8
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:0,Zapad 24_Kaliningrad
 https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:0,TV Centr
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Legendarnyj 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:0,Simferopol 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:0,Krym 24
+https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8

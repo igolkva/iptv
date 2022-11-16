@@ -21,8 +21,8 @@ https://sb.err.ee/live/etv2.m3u8
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0,ETV
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:0,Zapad 24_Kaliningrad
-https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:0,Nizhniy Novgorod 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:0,TV Centr
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Legendarnyj 24

@@ -11,8 +11,6 @@ https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Belarus 24
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0,Bashkirija24
-https://s1.gtrkrb.ru/hls/b24-hls.m3u8
 #EXTINF:0,IZ.RU HD
 https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
 #EXTINF:0,ETV2

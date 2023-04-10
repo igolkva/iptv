@@ -55,3 +55,5 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 #EXTINF:-1, Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1, Telebasel
+https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8

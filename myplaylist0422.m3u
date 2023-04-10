@@ -31,3 +31,27 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0,NTV
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v5a1/mono.m3u8
+#EXTINF:-1, Augsburg TV
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1, Muenchen TV
+https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1, Franken Fernsehen
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1, Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
+#EXTINF:-1, Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1, DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1, Baden TV
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
+#EXTINF:-1, TV1 OBERÖSTERREICH
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269.m3u8
+#EXTINF:-1, WDR Köln
+https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8
+#EXTINF:-1, NDR Fernsehen Niedersachsen
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1, BR Fernsehen Sued
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+#EXTINF:-1, Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8

@@ -1,3 +1,47 @@
+Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
+
+Oe24 TV
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+
+TV1 OBERÖSTERREICH
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_480p.m3u8
+
+RTL Luxembourg
+https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8
+
+Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+
+Canal Extremadura Satélite
+https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+
+Galicia TV Europa
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
+Italia 2 TV
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+
+KissKissTV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+Reggio TV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+
+Telenord
+https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+
+TG Norba 24
+https://stream3.xdevel.com/video0s976570-1422/stream/playlist.m3u8
+
+Tele 1
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
+
+
+-----------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:0,Krasnaja Linija
 #EXTGRP:Russian
@@ -83,18 +127,12 @@ https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:0, Telebasel
 #EXTGRP:German
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
-#EXTINF:0, ERSTE
-#EXTGRP:German
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0,Oireachtas TV
 #EXTGRP:English
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 #EXTINF:0,Oe24 TV
 #EXTGRP:German
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTINF:0,TV1 OBERÖSTERREICH
-#EXTGRP:German
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_480p.m3u8
 #EXTINF:0,RTL Luxembourg
 #EXTGRP:German
 https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8

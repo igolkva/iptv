@@ -44,9 +44,6 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0,Krym 24
 #EXTGRP:Russian
 https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:0,NTV
-#EXTGRP:Russian
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 #EXTINF:0, Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8

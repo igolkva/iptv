@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:0,Krasnaja Linija
+#EXTGRP:Russian
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0,RBC TV
+#EXTGRP:Russian
+https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=i1rjdj
+#EXTINF:0,Surgut Inform TV
+#EXTGRP:Russian
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:0,Telekanal SPAS
+#EXTGRP:Russian
+https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zvezda
+#EXTGRP:Russian
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,Belarus 24
+#EXTGRP:Russian
+https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
+#EXTINF:0,IZ.RU HD
+#EXTGRP:Russian
+https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
+#EXTINF:0,ETV2
+#EXTGRP:Estonian
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:0,ETV+
+#EXTGRP:Estonian
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0,ETV
+#EXTGRP:Estonian
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:0,Nizhniy Novgorod 24
+#EXTGRP:Russian
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:0,TV Centr
+#EXTGRP:Russian
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Legendarnyj 24
+#EXTGRP:Russian
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:0,Simferopol 24
+#EXTGRP:Russian
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:0,Krym 24
+#EXTGRP:Russian
+https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:0, Augsburg TV
+#EXTGRP:German
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:0, Muenchen TV
+#EXTGRP:German
+https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+#EXTINF:0, Franken Fernsehen
+#EXTGRP:German
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
+#EXTINF:0, Niederbayern TV
+#EXTGRP:German
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
+#EXTINF:0, Tagesschau24
+#EXTGRP:German
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:0, DW English
+#EXTGRP:German
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0, Baden TV
+#EXTGRP:German
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
+#EXTINF:0, TV1 OBERÖSTERREICH
+#EXTGRP:German
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269.m3u8
+#EXTINF:0, WDR Köln
+#EXTGRP:German
+https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8
+#EXTINF:0, NDR Fernsehen Niedersachsen
+#EXTGRP:German
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:0, BR Fernsehen Sued
+#EXTGRP:German
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+#EXTINF:0, Das Erste
+#EXTGRP:German
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:0, Telebasel
+#EXTGRP:German
+https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
+#EXTINF:0, ERSTE
+#EXTGRP:German
+https://mcdn.daserste.de/daserste/de/master.m3u8

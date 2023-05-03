@@ -107,15 +107,18 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 #EXTINF:0,Galicia TV Europa
 #EXTGRP:Spanish
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+#EXTINF:0,Radio Freccia TV
+#EXTGRP:Italian
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:0,Radio Roma
+#EXTGRP:Italian
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:0,Italia 2 TV
 #EXTGRP:Italian
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:0,KissKissTV
 #EXTGRP:Italian
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:0,Reggio TV
-#EXTGRP:Italian
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
 #EXTINF:0,Telenord
 #EXTGRP:Italian
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8

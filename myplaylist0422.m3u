@@ -44,6 +44,9 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0,Krym 24
 #EXTGRP:Russian
 https://live.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:0,Pervyj Kanal Evropa
+#EXTGRP:Russian
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0, Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8

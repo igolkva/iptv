@@ -43,7 +43,7 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0,Krym 24
 #EXTGRP:Russian
-https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
+https://live.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0, Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
@@ -81,7 +81,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 #EXTGRP:German
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:0, Telebasel
-#EXTGRP:German
+#EXTGRP:Swiss
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
 #EXTINF:0,Oireachtas TV
 #EXTGRP:English
@@ -120,5 +120,44 @@ https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTGRP:Italian
 https://stream3.xdevel.com/video0s976570-1422/stream/playlist.m3u8
 #EXTINF:0,Tele 1
-#EXTGRP:German
+#EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
+#EXTINF:0,San Marino RTV
+#EXTGRP:Italian
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist_slita.m3u8
+#EXTINF:0,RTV Sport
+#EXTGRP:Italian
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist_slita.m3u8
+#EXTINF:0,Radio Zeta Radiovisione
+#EXTGRP:Italian
+https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:0,Sachsen Eins
+#EXTGRP:German
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:0,Tele M1
+#EXTGRP:Swiss
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8
+#EXTINF:0,Omroep Brabant TV
+#EXTGRP:Dutch
+https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:0,Omrop Fryslân TV
+#EXTGRP:Dutch
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:0,TV Gelderland
+#EXTGRP:Dutch
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:0,TV Noord
+#EXTGRP:Dutch
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:0,TV Oost
+#EXTGRP:Dutch
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:0,Arirang World
+#EXTGRP:Asian
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,CGN TV Japan
+#EXTGRP:Asian
+https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
+#EXTINF:0,NHK World Japan
+#EXTGRP:Asian
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8

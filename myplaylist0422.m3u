@@ -92,9 +92,6 @@ https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8
 #EXTINF:0,Canal 24 Horas
 #EXTGRP:Spanish
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0,Canal Extremadura Satélite
-#EXTGRP:Spanish
-https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:0,EITB Basque
 #EXTGRP:Spanish
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
@@ -122,15 +119,6 @@ https://stream3.xdevel.com/video0s976570-1422/stream/playlist.m3u8
 #EXTINF:0,Tele 1
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
-#EXTINF:0,San Marino RTV
-#EXTGRP:Italian
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist_slita.m3u8
-#EXTINF:0,RTV Sport
-#EXTGRP:Italian
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist_slita.m3u8
-#EXTINF:0,Radio Zeta Radiovisione
-#EXTGRP:Italian
-https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:0,Sachsen Eins
 #EXTGRP:German
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8

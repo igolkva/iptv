@@ -44,9 +44,9 @@ https://cdn.1tvcrimea.ru/switcher.m3u8
 #EXTINF:0, Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:0, Muenchen TV
+#EXTINF:0, TV Ingolstadt
 #EXTGRP:German
-https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:0, Franken Fernsehen
 #EXTGRP:German
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
@@ -62,9 +62,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:0, Baden TV
 #EXTGRP:German
 https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
-#EXTINF:0, TV1 OBERÖSTERREICH
-#EXTGRP:German
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269.m3u8
 #EXTINF:0, WDR Köln
 #EXTGRP:German
 https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8

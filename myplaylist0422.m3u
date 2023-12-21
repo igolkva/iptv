@@ -86,9 +86,6 @@ https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k
 #EXTINF:0,Oireachtas TV
 #EXTGRP:English
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
-#EXTINF:0,Oe24 TV
-#EXTGRP:German
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:0,RTL Luxembourg
 #EXTGRP:German
 https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8
@@ -191,6 +188,3 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:0,Attica TV
 #EXTGRP:Other
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8
-#EXTINF:0,Joj Plus
-#EXTGRP:Other
-https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8

@@ -181,7 +181,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:0,Pervyj_Evrazija
 #EXTGRP:Russian
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/playlist.m3u8
+https://stream.qazcdn.net/1tvkz/1tvkz/1tvkz/1tvkz_720/playlist.m3u8
 #EXTINF:0,CBC
 #EXTGRP:Other
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8

@@ -128,9 +128,6 @@ https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3
 #EXTINF:0,Omroep Brabant TV
 #EXTGRP:Dutch
 https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:0,Omrop Fryslân TV
-#EXTGRP:Dutch
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:0,TV Gelderland
 #EXTGRP:Dutch
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
@@ -140,15 +137,9 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:0,TV Oost
 #EXTGRP:Dutch
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:0,Arirang World
-#EXTGRP:Asian
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0,CGN TV Japan
 #EXTGRP:Asian
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
-#EXTINF:0,NHK World Japan
-#EXTGRP:Asian
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:0,Superyacht TV
 #EXTGRP:Monaco
 https://sy.wns.live/hls/stream.m3u8
@@ -179,9 +170,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Ntv_Original
 #EXTGRP:Russian
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:0,Pervyj_Evrazija
-#EXTGRP:Russian
-https://stream.qazcdn.net/1tvkz/1tvkz/1tvkz/1tvkz_720/playlist.m3u8
 #EXTINF:0,CBC
 #EXTGRP:Other
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8

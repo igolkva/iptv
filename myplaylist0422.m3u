@@ -170,9 +170,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Ntv_Original
 #EXTGRP:Russian
 https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:0,CBC
-#EXTGRP:Other
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:0,Attica TV
 #EXTGRP:Other
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8

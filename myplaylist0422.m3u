@@ -71,9 +71,7 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 #EXTINF:0, BR Fernsehen Sued
 #EXTGRP:German
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-#EXTINF:0, Das Erste
-#EXTGRP:German
-https://mcdn.daserste.de/daserste/int/master.m3u8
+
 #EXTINF:0, Telebasel
 #EXTGRP:Swiss
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
@@ -95,9 +93,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:0,EITB Basque
 #EXTGRP:Spanish
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
-#EXTINF:0,Galicia TV Europa
-#EXTGRP:Spanish
-https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
 #EXTINF:0,Radio Freccia TV
 #EXTGRP:Italian
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
@@ -161,3 +157,12 @@ https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:0,Attica TV
 #EXTGRP:Other
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8
+#EXTINF:0, Rossija 1
+#EXTGRP:Russian
+https://streaming.goodstream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0, Rossija 24
+#EXTGRP:Russian
+https://streaming.goodstream.cyou/live/30-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:0,Lugansk 24
+#EXTGRP:Russian
+https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_0-1k_v5.m3u8

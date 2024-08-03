@@ -154,7 +154,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:0,Attica TV
 #EXTGRP:Other
-#EXTIMG:"https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg"
+#EXTIMG:https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8
 #EXTINF:0 group-title="Russian" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="3",Россия 1
 #EXTGRP:Russian

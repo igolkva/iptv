@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz", url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz", url-tvg="http://epg.team/tvteam.3.1.xml", url-tvg="http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be"
 #EXTINF:0 group-title="Russian" tvg-id="2476" tvg-logo="http://epg.one/img/2476.png" tvg-rec="3",Красная линия
 #EXTGRP:Russian
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -20,10 +20,10 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="EE: ETV2" tvg-logo="http://troya.one/images/chIcons/1641.png" tvg-rec="6",ETV2
 #EXTGRP:Estonian
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:0 group-title="Estonian" tvg-id="5343" tvg-logo="http://epg.one/img/5343.png" tvg-rec="0",ETV+ EE
+#EXTINF:0 tvg-name="EE: ETV Plus HD" tvg-logo="http://troya.one/images/chIcons/1106.png" tvg-rec="6",ETV+
 #EXTGRP:Estonian
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:0 group-title="Estonian" tvg-id="3367" tvg-logo="http://epg.one/img/3367.png" tvg-rec="3",ETV EE
+#EXTINF:0 tvg-name="EE: ETV" tvg-logo="http://troya.one/images/chIcons/1640.png" tvg-rec="6",ETV
 #EXTGRP:Estonian
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:0 group-title="Russian" tvg-id="7698" tvg-logo="http://epg.one/img/7698.png" tvg-rec="0",Нижний Новгород 24
@@ -38,28 +38,28 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7e/%D0%A1%D0%B8%D0%BC%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C_24.jpg/revision/latest?cb=20211028125635&path-prefix=ru",Симферополь 24
 #EXTGRP:Russian
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:0 group-title="Региональные" tvg-id="2474" tvg-logo="http://epg.one/img/2474.png" tvg-rec="3",КРЫМ 24
+#EXTINF:0 group-title="Russian" tvg-id="2474" tvg-logo="http://epg.one/img/2474.png" tvg-rec="3",КРЫМ 24
 #EXTGRP:Russian
 https://cdn.1tvcrimea.ru/switcher.m3u8
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/augsburg-tv-logo-6AC7E3C021-seeklogo.com.png", Augsburg TV
+#EXTINF:0 tvg-id="AugsburgTV.de" tvg-logo="https://seeklogo.com/images/A/augsburg-tv-logo-6AC7E3C021-seeklogo.com.png", Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.neuburg-donau.de/media-web-stadt-neuburg/bilder/logos/medien/image-thumb__2735__lightbox/tv-ingolstadt.png", TV Ingolstadt
 #EXTGRP:German
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://tvtvtv.ru/logos/franken_fernsehen.png", Franken Fernsehen
+#EXTINF:0 tvg-id="FrankenFernsehen.de" tvg-logo="https://tvtvtv.ru/logos/franken_fernsehen.png", Franken Fernsehen
 #EXTGRP:German
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.blm.de/files/jpg12/niederbayern_tv_morewhite_2.jpg", Niederbayern TV
+#EXTINF:0 tvg-id="NiederbayernTV.de" tvg-logo="https://www.blm.de/files/jpg12/niederbayern_tv_morewhite_2.jpg", Niederbayern TV
 #EXTGRP:German
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
 #EXTINF:0 group-title="German" tvg-id="8159" tvg-logo="http://epg.one/img/8159.png" tvg-rec="0",Tagesschau24
 #EXTGRP:German
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0 group-title="German" tvg-logo="https://tvepg.eu/img/sweden/logo/dw_english.png",DW English
+#EXTINF:0 group-title="German" tvg-id="DWEnglish.de" tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg",DW English
 #EXTGRP:German
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/baden-tv-sender-logo-276036.png", Baden TV
+#EXTINF:0 tvg-id="BadenTV.de" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/baden-tv-sender-logo-276036.png", Baden TV
 #EXTGRP:German
 https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
 #EXTINF:0 group-title="German" tvg-id="5658" tvg-logo="http://epg.one/img/5658.png" tvg-rec="0",WDR Fernsehen Köln
@@ -71,73 +71,73 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 #EXTINF:0 group-title="German" tvg-id="8034" tvg-logo="http://epg.one/img/8034.png" tvg-rec="0",BR Fernsehen Süd
 #EXTGRP:German
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-#EXTINF:0  tvg-logo="https://iconape.com/wp-content/png_logo_vector/telebasel-logo.png", Telebasel
+#EXTINF:0 tvg-id="Telebasel.ch" tvg-logo="https://iconape.com/wp-content/png_logo_vector/telebasel-logo.png", Telebasel
 #EXTGRP:Swiss
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/ot/280421/svg/teleb%C3%A4rn-logo-logo-icon-png-svg.png", TeleBaern
+#EXTINF:0 tvg-id="TeleBarn.ch" tvg-logo="https://iconape.com/wp-content/files/ot/280421/svg/teleb%C3%A4rn-logo-logo-icon-png-svg.png", TeleBaern
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/T/telezuri-logo-DC11DD3200-seeklogo.com.gif", TeleZuri
+#EXTINF:0 tvg-id="TeleZuri.ch" tvg-logo="https://seeklogo.com/images/T/telezuri-logo-DC11DD3200-seeklogo.com.gif", TeleZuri
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:0 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/oireachtas-tv.jpg",Oireachtas TV
+#EXTINF:0 tvg-id="OireachtasTV.ie" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/oireachtas-tv.jpg",Oireachtas TV
 #EXTGRP:English
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 #EXTINF:0 tvg-logo="https://freiheitsmobil.com/wp-content/uploads/2019/08/Logo_RTL_Luxembourg.png",RTL Luxembourg
 #EXTGRP:German
 https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 Horas
+#EXTINF:0  tvg-id="24Horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 Horas
 #EXTGRP:Spanish
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0 tvg-logo="https://alchetron.com/cdn/eitb-2f08f994-2a2c-461b-86fa-ada48018074-resize-750.jpg",EITB Basque
+#EXTINF:0 tvg-id="ETB1.es" tvg-logo="https://alchetron.com/cdn/eitb-2f08f994-2a2c-461b-86fa-ada48018074-resize-750.jpg",EITB Basque
 #EXTGRP:Spanish
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
-#EXTINF:0 tvg-logo="https://sicilia.onderadio.net/Loghi/Radio/NAZ/RadioFrecciaTV2.jpg",Radio Freccia TV
+#EXTINF:0 tvg-id="Radiofreccia.it" tvg-logo="https://sicilia.onderadio.net/Loghi/Radio/NAZ/RadioFrecciaTV2.jpg",Radio Freccia TV
 #EXTGRP:Italian
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.radioroma.it/wp-content/uploads/2022/08/radio-roma-logo.jpg",Radio Roma
 #EXTGRP:Italian
 https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:0 tvg-logo="https://tvtvtv.ru/logos/italia_2_tv.png",Italia 2 TV
+#EXTINF:0 tvg-id="Italia2.it" tvg-logo="https://tvtvtv.ru/logos/italia_2_tv.png",Italia 2 TV
 #EXTGRP:Italian
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:0 group-title="Italian" tvg-id="6116" tvg-logo="http://epg.one/img/6116.png" tvg-rec="0",Kiss Kiss
 #EXTGRP:Italian
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.tvdream.net/img/telenord.png",Telenord
+#EXTINF:0 tvg-id="Telenord8.do" tvg-logo="https://www.tvdream.net/img/telenord.png",Telenord
 #EXTGRP:Italian
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.tvdream.net/img/tgnorba24.png",TG Norba 24
+#EXTINF:0 tvg-id="Telenorba.it" tvg-logo="https://www.tvdream.net/img/tgnorba24.png",TG Norba 24
 #EXTGRP:Italian
 https://stream3.xdevel.com/video0s976570-1422/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tele-1-logo.png",Tele 1
+#EXTINF:0 tvg-id="Tele1.ch" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tele-1-logo.png",Tele 1
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sachsen-eins-de.png",Sachsen Eins
+#EXTINF:0 tvg-id="SachsenEins.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sachsen-eins-de.png",Sachsen Eins
 #EXTGRP:German
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://4vector.com/i/free-vector-tele-m1_030121_tele-m1.png",Tele M1
+#EXTINF:0 tvg-id="TeleM1.ch" tvg-logo="https://4vector.com/i/free-vector-tele-m1_030121_tele-m1.png",Tele M1
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-gpFtZiV8pAQ/AAAAAAAAAAI/AAAAAAAAAAA/3XYnGCrmbeY/s900-c-k-no/photo.jpg",Omroep Brabant TV
+#EXTINF:0 tvg-id="OmroepBrabant.nl" tvg-logo="https://yt3.ggpht.com/-gpFtZiV8pAQ/AAAAAAAAAAI/AAAAAAAAAAA/3XYnGCrmbeY/s900-c-k-no/photo.jpg",Omroep Brabant TV
 #EXTGRP:Dutch
 https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-rsSVp2Ac9pY/AAAAAAAAAAI/AAAAAAAAAAA/TYpOQ3V3coc/s900-c-k-no/photo.jpg",TV Gelderland
+#EXTINF:0 tvg-id="OmroepGelderland.nl" tvg-logo="https://yt3.ggpht.com/-rsSVp2Ac9pY/AAAAAAAAAAI/AAAAAAAAAAA/TYpOQ3V3coc/s900-c-k-no/photo.jpg",TV Gelderland
 #EXTGRP:Dutch
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/7451/brand.gif",TV Noord
+#EXTINF:0 tvg-id="RTVNoord.nl" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/7451/brand.gif",TV Noord
 #EXTGRP:Dutch
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s37283d.png",TV Oost
+#EXTINF:0 tvg-id="RTVOost.nl" tvg-logo="https://cdn-radiotime-logos.tunein.com/s37283d.png",TV Oost
 #EXTGRP:Dutch
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 #EXTINF:0 tvg-logo="https://fltaradio.com/upload/2019/03/cgntv-japan.jpg",CGN TV Japan
 #EXTGRP:Asian
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/superyacht-tv-mc.png",Superyacht TV
+#EXTINF:0 tvg-id="SuperyachtTV.mc" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superyacht-tv-mc.png",Superyacht TV
 #EXTGRP:Monaco
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2019/12/ard-logo.jpg",Ard Alpha
+#EXTINF:0 tvg-name="ARD Alpha" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2019/12/ard-logo.jpg",Ard Alpha
 #EXTGRP:German
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
 #EXTINF:0 group-title="German" tvg-id="8151" tvg-logo="http://epg.one/img/8151.png" tvg-rec="0",SR Fernsehen
@@ -152,9 +152,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="Russian" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="3",НТВ
 #EXTGRP:Russian
 https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:0,Attica TV
+#EXTINF:0 tvg-id="AtticaTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg",Attica TV
 #EXTGRP:Other
-#EXTIMG:"https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg"
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8
 #EXTINF:0 group-title="Russian" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="3",Россия 1
 #EXTGRP:Russian

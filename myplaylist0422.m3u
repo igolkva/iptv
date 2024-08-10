@@ -1,165 +1,163 @@
-#EXTM3U
-#EXTINF:0,Krasnaja Linija
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz,http://epg.team/tvteam.3.1.xml"
+#EXTINF:0  tvg-id="2476"  tvg-logo="https://igolkva.github.io/iptv/Krasnaya_liniya.png",Красная линия
 #EXTGRP:Russian
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,RBC TV
+#EXTINF:0  tvg-id="743"  tvg-logo="https://igolkva.github.io/iptv/RBK.png",РБК
 #EXTGRP:Russian
 https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=i1rjdj
-#EXTINF:0,Surgut Inform TV
+#EXTINF:0  tvg-id="6672"  tvg-logo="https://igolkva.github.io/iptv/Surgut_1.png",Сургут 1
 #EXTGRP:Russian
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:0,Telekanal SPAS
+#EXTINF:0  tvg-id="2141"  tvg-logo="https://igolkva.github.io/iptv/SPAS.png",СПАС
 #EXTGRP:Russian
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:0,Belarus 24
+#EXTINF:0  tvg-id="2170"  tvg-logo="https://igolkva.github.io/iptv/Belarus_24.png",Беларусь 24
 #EXTGRP:Russian
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0,IZ.RU HD
+#EXTINF:0  tvg-id="2271"  tvg-logo="https://igolkva.github.io/iptv/Izvestiya.png",Известия
 #EXTGRP:Russian
 https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.m3u8
-#EXTINF:0,ETV2
+#EXTINF:0 tvg-name="EE: ETV2"   tvg-logo="https://igolkva.github.io/iptv/ETV2.png",ETV2
 #EXTGRP:Estonian
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:0,ETV+
+#EXTINF:0 tvg-name="EE: ETV Plus HD"   tvg-logo="https://igolkva.github.io/iptv/ETVplus.png",ETV+
 #EXTGRP:Estonian
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:0,ETV
+#EXTINF:0 tvg-name="EE: ETV"   tvg-logo="https://igolkva.github.io/iptv/ETV.png",ETV
 #EXTGRP:Estonian
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:0,Nizhniy Novgorod 24
+#EXTINF:0  tvg-id="7698"  tvg-logo="https://igolkva.github.io/iptv/Nizhniy_Novgorod_24.png",Нижний Новгород 24
 #EXTGRP:Russian
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:0,TV Centr
+#EXTINF:0  tvg-id="649"  tvg-logo="https://igolkva.github.io/iptv/TVC.png",ТВЦ
 #EXTGRP:Russian
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,Legendarnyj 24
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Legendarnyy_24.png",Легендарный 24
 #EXTGRP:Russian
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0,Simferopol 24
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Simferopol_24.png",Симферополь 24
 #EXTGRP:Russian
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:0,Krym 24
+#EXTINF:0  tvg-id="2474"  tvg-logo="https://igolkva.github.io/iptv/KRYM_24.png",КРЫМ 24
 #EXTGRP:Russian
 https://cdn.1tvcrimea.ru/switcher.m3u8
-#EXTINF:0, Augsburg TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Augsburg_TV.png", Augsburg TV
 #EXTGRP:German
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:0, TV Ingolstadt
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TV_Ingolstadt.png", TV Ingolstadt
 #EXTGRP:German
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:0, Franken Fernsehen
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Franken_Fernsehen.png", Franken Fernsehen
 #EXTGRP:German
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
-#EXTINF:0, Niederbayern TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Niederbayern_TV.png", Niederbayern TV
 #EXTGRP:German
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
-#EXTINF:0, Tagesschau24
+#EXTINF:0  tvg-id="8159"  tvg-logo="https://igolkva.github.io/iptv/Tagesschau24.png",Tagesschau24
 #EXTGRP:German
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0, DW English
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/DW_English.png",DW English
 #EXTGRP:German
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:0, Baden TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Baden_TV.png", Baden TV
 #EXTGRP:German
 https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
-#EXTINF:0, WDR Köln
+#EXTINF:0  tvg-id="5658"  tvg-logo="https://igolkva.github.io/iptv/WDR_Fernsehen_Koln.png",WDR Fernsehen Köln
 #EXTGRP:German
 https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8
-#EXTINF:0, NDR Fernsehen Niedersachsen
+#EXTINF:0  tvg-id="5664"  tvg-logo="https://igolkva.github.io/iptv/NDR_Fernsehen_Niedersachsen.png",NDR Fernsehen Niedersachsen
 #EXTGRP:German
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
-#EXTINF:0, BR Fernsehen Sued
+#EXTINF:0  tvg-id="8034"  tvg-logo="https://igolkva.github.io/iptv/BR_Fernsehen_Sud.png",BR Fernsehen Süd
 #EXTGRP:German
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-
-#EXTINF:0, Telebasel
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Telebasel.png", Telebasel
 #EXTGRP:Swiss
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
-#EXTINF:0, TeleBaern
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TeleBaern.png", TeleBaern
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
-#EXTINF:0, TeleZuri
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TeleZuri.png", TeleZuri
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:0,Oireachtas TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Oireachtas_TV.png",Oireachtas TV
 #EXTGRP:English
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
-#EXTINF:0,RTL Luxembourg
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/RTL_Luxembourg.png",RTL Luxembourg
 #EXTGRP:German
 https://live-edge.rtl.lu/channel1/smil:channel1.smil/1080p.m3u8
-#EXTINF:0,Canal 24 Horas
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Canal_24_Horas.png",Canal 24 Horas
 #EXTGRP:Spanish
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0,EITB Basque
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/EITB_Basque.png",EITB Basque
 #EXTGRP:Spanish
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
-
-#EXTINF:0,Radio Freccia TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Radio_Freccia_TV.png",Radio Freccia TV
 #EXTGRP:Italian
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:0,Radio Roma
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Radio_Roma.png",Radio Roma
 #EXTGRP:Italian
 https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:0,Italia 2 TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Italia_2_TV.png",Italia 2 TV
 #EXTGRP:Italian
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:0,KissKissTV
+#EXTINF:0  tvg-id="6116"  tvg-logo="https://igolkva.github.io/iptv/Kiss_Kiss.png",Kiss Kiss
 #EXTGRP:Italian
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:0,Telenord
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Telenord.png",Telenord
 #EXTGRP:Italian
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:0,TG Norba 24
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TG_Norba_24.png",TG Norba 24
 #EXTGRP:Italian
 https://stream3.xdevel.com/video0s976570-1422/stream/playlist.m3u8
-#EXTINF:0,Tele 1
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Tele_1.png",Tele 1
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
-#EXTINF:0,Sachsen Eins
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Sachsen_Eins.png",Sachsen Eins
 #EXTGRP:German
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:0,Tele M1
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Tele_M1.png",Tele M1
 #EXTGRP:Swiss
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/index-s32.m3u8
-#EXTINF:0,Omroep Brabant TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Omroep_Brabant_TV.png",Omroep Brabant TV
 #EXTGRP:Dutch
 https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:0,TV Gelderland
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TV_Gelderland.png",TV Gelderland
 #EXTGRP:Dutch
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:0,TV Noord
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TV_Noord.png",TV Noord
 #EXTGRP:Dutch
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:0,TV Oost
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/TV_Oost.png",TV Oost
 #EXTGRP:Dutch
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:0,CGN TV Japan
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/CGN_TV_Japan.png",CGN TV Japan
 #EXTGRP:Asian
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
-#EXTINF:0,Superyacht TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Superyacht_TV.png",Superyacht TV
 #EXTGRP:Monaco
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:0,Ard Alpha
+#EXTINF:0 tvg-name="ARD Alpha"   tvg-logo="https://igolkva.github.io/iptv/Ard_Alpha.png",Ard Alpha
 #EXTGRP:German
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-#EXTINF:0,SR Fernsehen
+#EXTINF:0  tvg-id="8151"  tvg-logo="https://igolkva.github.io/iptv/SR_Fernsehen.png",SR Fernsehen
 #EXTGRP:German
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
-#EXTINF:0,Pervyj kanal Zarubezhnoe veszanie
+#EXTINF:0  tvg-id="146"  tvg-logo="https://igolkva.github.io/iptv/Pervyy_kanal.png",Первый канал
 #EXTGRP:Russian
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,Zvezda_Original_HD
+#EXTINF:0  tvg-id="405"  tvg-logo="https://igolkva.github.io/iptv/Zvezda.png",Звезда
 #EXTGRP:Russian
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Ntv_Original
+#EXTINF:0  tvg-id="162"  tvg-logo="https://igolkva.github.io/iptv/NTV.png",НТВ
 #EXTGRP:Russian
 https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:0,Attica TV
+#EXTINF:0   tvg-logo="https://igolkva.github.io/iptv/Attica_TV.png",Attica TV
 #EXTGRP:Other
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/playlist.m3u8
-#EXTINF:0, Rossija 1
+#EXTINF:0  tvg-id="711"  tvg-logo="https://igolkva.github.io/iptv/Rossiya_1.png",Россия 1
 #EXTGRP:Russian
 https://streaming.goodstream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0, Rossija 24
+#EXTINF:0  tvg-id="1683"  tvg-logo="https://igolkva.github.io/iptv/Rossiya_24.png",Россия 24
 #EXTGRP:Russian
 https://streaming.goodstream.cyou/live/30-req_offset_28000000-req_window_0-2k_v5.m3u8
